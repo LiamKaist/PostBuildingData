@@ -1,0 +1,1082 @@
+<?xml version="1.0"?>
+<csv_data>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>8800026901013020033532266z</serializedGLN>
+    <buildingName languageCode='en' >Main Gate</buildingName>
+    <buildingCode languageCode='en' >E1</buildingCode>
+    <longitude>127.363653</longitude>
+    <latitude>36.366058</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322712z</serializedGLN>
+    <buildingName languageCode='en' >Geotechnical Centrifuge Testing Center</buildingName>
+    <buildingCode languageCode='en' >W16</buildingCode>
+    <longitude>127.3624614</longitude>
+    <latitude>36.36560241</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>8800026901013020033532276z</serializedGLN>
+    <buildingName languageCode='en' >Applied Engineering B/D</buildingName>
+    <buildingCode languageCode='en' >W1</buildingCode>
+    <longitude>127.3612862</longitude>
+    <latitude>36.3654734</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322778z</serializedGLN>
+    <buildingName languageCode='en' >Galilei Hall</buildingName>
+    <buildingCode languageCode='en' >W3</buildingCode>
+    <longitude>127.3582172</longitude>
+    <latitude>36.36738011</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322790z</serializedGLN>
+    <buildingName languageCode='en' >Yeoul Hall. Nadl Hall</buildingName>
+    <buildingCode languageCode='en' >W4-1. 2</buildingCode>
+    <longitude>127.357496</longitude>
+    <latitude>36.366974</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322798z</serializedGLN>
+    <buildingName languageCode='en' >Greenhouse</buildingName>
+    <buildingCode languageCode='en' >N/A</buildingCode>
+    <longitude>127.358301</longitude>
+    <latitude>36.368234</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353227102z</serializedGLN>
+    <buildingName languageCode='en' >Dasom Hall. Heemang Hall</buildingName>
+    <buildingCode languageCode='en' >W4-3. 4</buildingCode>
+    <longitude>127.356952</longitude>
+    <latitude>36.36823</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353227112z</serializedGLN>
+    <buildingName languageCode='en' >West Energy Plant</buildingName>
+    <buildingCode languageCode='en' >W12</buildingCode>
+    <longitude>127.3571928</longitude>
+    <latitude>36.36869168</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353227118z</serializedGLN>
+    <buildingName languageCode='en' >Married Students Housing</buildingName>
+    <buildingCode languageCode='en' >W5-1</buildingCode>
+    <longitude>127.3566519</longitude>
+    <latitude>36.36910927</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353227120z</serializedGLN>
+    <buildingName languageCode='en' >Startup Village</buildingName>
+    <buildingCode languageCode='en' >W5-2</buildingCode>
+    <longitude>127.3559775</longitude>
+    <latitude>36.36918057</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353227122z</serializedGLN>
+    <buildingName languageCode='en' >International Village(C)</buildingName>
+    <buildingCode languageCode='en' >W5-3</buildingCode>
+    <longitude>127.356408</longitude>
+    <latitude>36.36951142</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353227126z</serializedGLN>
+    <buildingName languageCode='en' >International Village(A)</buildingName>
+    <buildingCode languageCode='en' >W5-4</buildingCode>
+    <longitude>127.3556307</longitude>
+    <latitude>36.36971404</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353227128z</serializedGLN>
+    <buildingName languageCode='en' >International Village(B)</buildingName>
+    <buildingCode languageCode='en' >W5-5</buildingCode>
+    <longitude>127.3560178</longitude>
+    <latitude>36.37000364</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353227136z</serializedGLN>
+    <buildingName languageCode='en' >Mir Hall. Narae Hall</buildingName>
+    <buildingCode languageCode='en' >W6</buildingCode>
+    <longitude>127.3557122</longitude>
+    <latitude>36.37043474</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353227148z</serializedGLN>
+    <buildingName languageCode='en' >Nanum Hall</buildingName>
+    <buildingCode languageCode='en' >W7</buildingCode>
+    <longitude>127.3558258</longitude>
+    <latitude>36.37109499</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353227151z</serializedGLN>
+    <buildingName languageCode='en' >International Faculty Apartment</buildingName>
+    <buildingCode languageCode='en' >W11</buildingCode>
+    <longitude>127.3561537</longitude>
+    <latitude>36.371961</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353227158z</serializedGLN>
+    <buildingName languageCode='en' >Wind Tunnel Laboratory</buildingName>
+    <buildingCode languageCode='en' >W10</buildingCode>
+    <longitude>127.356847</longitude>
+    <latitude>36.37140632</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322813z</serializedGLN>
+    <buildingName languageCode='en' >Industrial Engineering and Management B/D</buildingName>
+    <buildingCode languageCode='en' >E2</buildingCode>
+    <longitude>127.3643474</longitude>
+    <latitude>36.36731328</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322821z</serializedGLN>
+    <buildingName languageCode='en' >Information and Electronics B/D</buildingName>
+    <buildingCode languageCode='en' >E3</buildingCode>
+    <longitude>127.365382</longitude>
+    <latitude>36.36882</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322837z</serializedGLN>
+    <buildingName languageCode='en' >National Nano Fab Center</buildingName>
+    <buildingCode languageCode='en' >E19</buildingCode>
+    <longitude>127.366813</longitude>
+    <latitude>36.36825832</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322838z</serializedGLN>
+    <buildingName languageCode='en' >Waste Water Disposal Plant</buildingName>
+    <buildingCode languageCode='en' >N/A</buildingCode>
+    <longitude>127.367601</longitude>
+    <latitude>36.367765</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322846z</serializedGLN>
+    <buildingName languageCode='en' >Daejeon Disease-model Animal Center</buildingName>
+    <buildingCode languageCode='en' >E18</buildingCode>
+    <longitude>127.368093</longitude>
+    <latitude>36.368455</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322848z</serializedGLN>
+    <buildingName languageCode='en' >Bio Model System Park</buildingName>
+    <buildingCode languageCode='en' >E18-1</buildingCode>
+    <longitude>127.3681392</longitude>
+    <latitude>36.36850846</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322852z</serializedGLN>
+    <buildingName languageCode='en' >Stadium</buildingName>
+    <buildingCode languageCode='en' >E17</buildingCode>
+    <longitude>127.36846</longitude>
+    <latitude>36.36958</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322853z</serializedGLN>
+    <buildingName languageCode='en' >Device Innovation Facility</buildingName>
+    <buildingCode languageCode='en' >E3-3</buildingCode>
+    <longitude>127.3665404</longitude>
+    <latitude>36.36893536</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322859z</serializedGLN>
+    <buildingName languageCode='en' >Saeneul Dong</buildingName>
+    <buildingCode languageCode='en' >E3-4</buildingCode>
+    <longitude>127.3662967</longitude>
+    <latitude>36.36928543</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322869z</serializedGLN>
+    <buildingName languageCode='en' >Natural Science B/D</buildingName>
+    <buildingCode languageCode='en' >E6</buildingCode>
+    <longitude>127.3646214</longitude>
+    <latitude>36.37015234</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322871z</serializedGLN>
+    <buildingName languageCode='en' >Biomedical Research Center</buildingName>
+    <buildingCode languageCode='en' >E7</buildingCode>
+    <longitude>127.3654673</longitude>
+    <latitude>36.37030401</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322877z</serializedGLN>
+    <buildingName languageCode='en' >Basic Science Building</buildingName>
+    <buildingCode languageCode='en' >E6-6</buildingCode>
+    <longitude>127.3649287</longitude>
+    <latitude>36.37076561</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322899z</serializedGLN>
+    <buildingName languageCode='en' >GoongNi Laboratory Building</buildingName>
+    <buildingCode languageCode='en' >E6-5</buildingCode>
+    <longitude>127.3636536</longitude>
+    <latitude>36.37031463</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322868z</serializedGLN>
+    <buildingName languageCode='en' >Sejong Hall</buildingName>
+    <buildingCode languageCode='en' >E8</buildingCode>
+    <longitude>127.366542</longitude>
+    <latitude>36.371242</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200485926181z</serializedGLN>
+    <buildingName languageCode='en' >KAIST Clinic</buildingName>
+    <buildingCode languageCode='en' >E21</buildingCode>
+    <longitude>127.3696418</longitude>
+    <latitude>36.36949939</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322880z</serializedGLN>
+    <buildingName languageCode='en' >Storehouse</buildingName>
+    <buildingCode languageCode='en' >E10</buildingCode>
+    <longitude>127.3653365</longitude>
+    <latitude>36.37128344</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322882z</serializedGLN>
+    <buildingName languageCode='en' >Maintenance Storehouse</buildingName>
+    <buildingCode languageCode='en' >N/A</buildingCode>
+    <longitude>127.36491</longitude>
+    <latitude>36.37161</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322886z</serializedGLN>
+    <buildingName languageCode='en' >Energy Plant</buildingName>
+    <buildingCode languageCode='en' >E12</buildingCode>
+    <longitude>127.3644937</longitude>
+    <latitude>36.37127137</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322884z</serializedGLN>
+    <buildingName languageCode='en' >154KV Substation</buildingName>
+    <buildingCode languageCode='en' >N/A</buildingCode>
+    <longitude>127.36409</longitude>
+    <latitude>36.3715</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353228107z</serializedGLN>
+    <buildingName languageCode='en' >Creative Learning B/D</buildingName>
+    <buildingCode languageCode='en' >E11</buildingCode>
+    <longitude>127.3625616</longitude>
+    <latitude>36.37037112</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353228112z</serializedGLN>
+    <buildingName languageCode='en' >YANG Bun Soon B/D</buildingName>
+    <buildingCode languageCode='en' >E16-1</buildingCode>
+    <longitude>127.3623977</longitude>
+    <latitude>36.37114494</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353228120z</serializedGLN>
+    <buildingName languageCode='en' >ChungMoonSoul B/D</buildingName>
+    <buildingCode languageCode='en' >E16</buildingCode>
+    <longitude>127.3619244</longitude>
+    <latitude>36.37157253</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322622z</serializedGLN>
+    <buildingName languageCode='en' >KAIST Institutes B/D</buildingName>
+    <buildingCode languageCode='en' >E4</buildingCode>
+    <longitude>127.3638695</longitude>
+    <latitude>36.36820003</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200485926122z</serializedGLN>
+    <buildingName languageCode='en' >Faculty Club</buildingName>
+    <buildingCode languageCode='en' >E5</buildingCode>
+    <longitude>127.3635684</longitude>
+    <latitude>36.36923523</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322638z</serializedGLN>
+    <buildingName languageCode='en' >Academic Cultural Complex</buildingName>
+    <buildingCode languageCode='en' >E9</buildingCode>
+    <longitude>127.36298</longitude>
+    <latitude>36.36888</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322646z</serializedGLN>
+    <buildingName languageCode='en' >Central Library</buildingName>
+    <buildingCode languageCode='en' >E9</buildingCode>
+    <longitude>127.36247</longitude>
+    <latitude>36.36959</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322653z</serializedGLN>
+    <buildingName languageCode='en' >Information Center</buildingName>
+    <buildingCode languageCode='en' >N/A</buildingCode>
+    <longitude>127.3607</longitude>
+    <latitude>36.36956</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322661z</serializedGLN>
+    <buildingName languageCode='en' >Educational Support B/D</buildingName>
+    <buildingCode languageCode='en' >W8</buildingCode>
+    <longitude>127.3597674</longitude>
+    <latitude>36.37002446</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322656z</serializedGLN>
+    <buildingName languageCode='en' >Main Administration B/D</buildingName>
+    <buildingCode languageCode='en' >E14</buildingCode>
+    <longitude>127.361295</longitude>
+    <latitude>36.37050658</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322669z</serializedGLN>
+    <buildingName languageCode='en' >Analysis Center for Research Advancement</buildingName>
+    <buildingCode languageCode='en' >W8-1</buildingCode>
+    <longitude>127.3593862</longitude>
+    <latitude>36.37059761</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322687z</serializedGLN>
+    <buildingName languageCode='en' >Outdoor Theater</buildingName>
+    <buildingCode languageCode='en' >W9</buildingCode>
+    <longitude>127.35816</longitude>
+    <latitude>36.37089</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322684z</serializedGLN>
+    <buildingName languageCode='en' >Mechanical Engineering B/D</buildingName>
+    <buildingCode languageCode='en' >N7</buildingCode>
+    <longitude>127.3586673</longitude>
+    <latitude>36.37245018</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353226117z</serializedGLN>
+    <buildingName languageCode='en' >Recycling Separation Center</buildingName>
+    <buildingCode languageCode='en' >N/A</buildingCode>
+    <longitude>127.35636</longitude>
+    <latitude>36.37437</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353226119z</serializedGLN>
+    <buildingName languageCode='en' >Areum Hall</buildingName>
+    <buildingCode languageCode='en' >N19</buildingCode>
+    <longitude>127.3567002</longitude>
+    <latitude>36.37393145</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353226127z</serializedGLN>
+    <buildingName languageCode='en' >Somang Hall</buildingName>
+    <buildingCode languageCode='en' >N16</buildingCode>
+    <longitude>127.3574961</longitude>
+    <latitude>36.37380115</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353226135z</serializedGLN>
+    <buildingName languageCode='en' >Sarang Hall</buildingName>
+    <buildingCode languageCode='en' >N14</buildingCode>
+    <longitude>127.3583549</longitude>
+    <latitude>36.37375369</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353226143z</serializedGLN>
+    <buildingName languageCode='en' >Student Cafeteria</buildingName>
+    <buildingCode languageCode='en' >N11</buildingCode>
+    <longitude>127.3593461</longitude>
+    <latitude>36.37382775</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353226153z</serializedGLN>
+    <buildingName languageCode='en' >Undergraduate Branch Library</buildingName>
+    <buildingCode languageCode='en' >N10</buildingCode>
+    <longitude>127.3604051</longitude>
+    <latitude>36.374159</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353226161z</serializedGLN>
+    <buildingName languageCode='en' >Dept. of Industrial Design B/D</buildingName>
+    <buildingCode languageCode='en' >N25</buildingCode>
+    <longitude>127.3622123</longitude>
+    <latitude>36.37385223</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353226167z</serializedGLN>
+    <buildingName languageCode='en' >School of Humanities and Social Science B/D</buildingName>
+    <buildingCode languageCode='en' >N4</buildingCode>
+    <longitude>127.3626288</longitude>
+    <latitude>36.37323275</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353226150z</serializedGLN>
+    <buildingName languageCode='en' >Tae Wul Gwan</buildingName>
+    <buildingCode languageCode='en' >N13</buildingCode>
+    <longitude>127.3600197</longitude>
+    <latitude>36.37314856</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>880002690101302003353226156z</serializedGLN>
+    <buildingName languageCode='en' >Chang Young Shin Student Center</buildingName>
+    <buildingCode languageCode='en' >N13-1</buildingCode>
+    <longitude>127.360599</longitude>
+    <latitude>36.373138</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322629z</serializedGLN>
+    <buildingName languageCode='en' >Student Center-1</buildingName>
+    <buildingCode languageCode='en' >W2</buildingCode>
+    <longitude>127.3602559</longitude>
+    <latitude>36.3672191</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322631z</serializedGLN>
+    <buildingName languageCode='en' >International Center</buildingName>
+    <buildingCode languageCode='en' >W2-1</buildingCode>
+    <longitude>127.3604301</longitude>
+    <latitude>36.3674925</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322927z</serializedGLN>
+    <buildingName languageCode='en' >??? ????</buildingName>
+    <buildingCode languageCode='en' >N3</buildingCode>
+    <longitude>127.3615385</longitude>
+    <latitude>36.37241896</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322938z</serializedGLN>
+    <buildingName languageCode='en' >Auditorium</buildingName>
+    <buildingCode languageCode='en' >E15</buildingCode>
+    <longitude>127.3630199</longitude>
+    <latitude>36.37204044</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322941z</serializedGLN>
+    <buildingName languageCode='en' >Branch Administration B/D</buildingName>
+    <buildingCode languageCode='en' >N2</buildingCode>
+    <longitude>127.3636</longitude>
+    <latitude>36.372943</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322954z</serializedGLN>
+    <buildingName languageCode='en' >Satellite Technology Research Center</buildingName>
+    <buildingCode languageCode='en' >E13</buildingCode>
+    <longitude>127.3662665</longitude>
+    <latitude>36.37251964</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322956z</serializedGLN>
+    <buildingName languageCode='en' >Kyeryong Hall</buildingName>
+    <buildingCode languageCode='en' >E20</buildingCode>
+    <longitude>127.3670231</longitude>
+    <latitude>36.37252195</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322961z</serializedGLN>
+    <buildingName languageCode='en' >Kim Beang-Ho and Kim Sam-Youl ITC Building</buildingName>
+    <buildingCode languageCode='en' >N1</buildingCode>
+    <longitude>127.3656308</longitude>
+    <latitude>36.37419256</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335322973z</serializedGLN>
+    <buildingName languageCode='en' >East Gate</buildingName>
+    <buildingCode languageCode='en' >N0</buildingCode>
+    <longitude>127.36661</longitude>
+    <latitude>36.37358</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>8800026901013020033532305z</serializedGLN>
+    <buildingName languageCode='en' >Seongsil Hall</buildingName>
+    <buildingCode languageCode='en' >N17</buildingCode>
+    <longitude>127.358888</longitude>
+    <latitude>36.37432215</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335323011z</serializedGLN>
+    <buildingName languageCode='en' >Jilli Hall</buildingName>
+    <buildingCode languageCode='en' >N18</buildingCode>
+    <longitude>127.3591984</longitude>
+    <latitude>36.37472042</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335323015z</serializedGLN>
+    <buildingName languageCode='en' >Silloe Hall</buildingName>
+    <buildingCode languageCode='en' >N20</buildingCode>
+    <longitude>127.3589608</longitude>
+    <latitude>36.37521694</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335323017z</serializedGLN>
+    <buildingName languageCode='en' >Jihye Hall</buildingName>
+    <buildingCode languageCode='en' >N21</buildingCode>
+    <longitude>127.3585804</longitude>
+    <latitude>36.37586921</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335323019z</serializedGLN>
+    <buildingName languageCode='en' >Staff Accommodation</buildingName>
+    <buildingCode languageCode='en' >N15</buildingCode>
+    <longitude>127.3598145</longitude>
+    <latitude>36.37488242</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335323014z</serializedGLN>
+    <buildingName languageCode='en' >Student Center-2</buildingName>
+    <buildingCode languageCode='en' >N12</buildingCode>
+    <longitude>127.3598844</longitude>
+    <latitude>36.37410666</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200485926215z</serializedGLN>
+    <buildingName languageCode='en' >Eureka Hall</buildingName>
+    <buildingCode languageCode='en' >N27</buildingCode>
+    <longitude>127.3607067</longitude>
+    <latitude>36.37548614</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200485926217z</serializedGLN>
+    <buildingName languageCode='en' >Center for High-Performance Integrated Syetems</buildingName>
+    <buildingCode languageCode='en' >N26</buildingCode>
+    <longitude>127.3615976</longitude>
+    <latitude>36.37542399</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200485926221z</serializedGLN>
+    <buildingName languageCode='en' >Energy and Environment Research Center</buildingName>
+    <buildingCode languageCode='en' >N28</buildingCode>
+    <longitude>127.3625229</longitude>
+    <latitude>36.37541272</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200485926225z</serializedGLN>
+    <buildingName languageCode='en' >LG Innovation Hall</buildingName>
+    <buildingCode languageCode='en' >N24</buildingCode>
+    <longitude>127.3634793</longitude>
+    <latitude>36.37539245</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200485926231z</serializedGLN>
+    <buildingName languageCode='en' >fMRI Center</buildingName>
+    <buildingCode languageCode='en' >N23</buildingCode>
+    <longitude>127.3640677</longitude>
+    <latitude>36.37541293</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200485926232z</serializedGLN>
+    <buildingName languageCode='en' >Alumni Venture Hall</buildingName>
+    <buildingCode languageCode='en' >N22</buildingCode>
+    <longitude>127.3642815</longitude>
+    <latitude>36.37481426</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335323057z</serializedGLN>
+    <buildingName languageCode='en' >Faculty Hall</buildingName>
+    <buildingCode languageCode='en' >N6</buildingCode>
+    <longitude>127.364445</longitude>
+    <latitude>36.37456537</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335323038z</serializedGLN>
+    <buildingName languageCode='en' >Practice B/D</buildingName>
+    <buildingCode languageCode='en' >N9</buildingCode>
+    <longitude>127.3615942</longitude>
+    <latitude>36.37415715</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+<row>
+<product_data:productData xmlns:product_data="urn:gs1:tsd:product_data:xsd:1" xmlns:room_module="urn:gs1:tsd:room_module:xsd:1" xmlns:building_services_module="urn:gs1:tsd:building_services_module:xsd:1">
+    <serializedGLN>88000269010130200335323060z</serializedGLN>
+    <buildingName languageCode='en' >Basic Experiement and Research B/D</buildingName>
+    <buildingCode languageCode='en' >N5</buildingCode>
+    <longitude>127.363846</longitude>
+    <latitude>36.37399</latitude>
+    <buildingRecord>
+        <buildingDescription languageCode="en">Description</buildingDescription>
+        <module></module>
+    </buildingRecord>
+</product_data:productData>
+</row>
+</csv_data>
